@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start" : "nodemon es5/myApp.js",
-    "build": "gulp build"
+    "watch": "gulp watch"
   },
   "author": "",
   "license": "ISC",
