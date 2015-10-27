@@ -1,3 +1,3 @@
 # es6-gulp-node
 
-Creating a build stack for Node JS that renders ES6 to ES5. 
+Sourcemaps, Node, ES6 build file test. Would like to see this working with Nodemon. 
